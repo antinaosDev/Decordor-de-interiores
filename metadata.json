@@ -1,0 +1,5 @@
+{
+  "name": "DecorAI: Tu Diseñador de Interiores con IA",
+  "description": "Una aplicación web interactiva que permite a los usuarios subir una imagen de una habitación, generar múltiples opciones de decoración de interiores impulsadas por IA y encontrar tiendas web para comprar los muebles y accesorios sugeridos.",
+  "requestFramePermissions": []
+}
